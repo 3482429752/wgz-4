@@ -3,5 +3,10 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
-	"Plugins": []
+	"Plugins": [
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true
+		}
+	]
 }
